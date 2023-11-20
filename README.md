@@ -13,3 +13,16 @@ __GUI Components__
   - __JLabel named "note"__ indicating if the queue is full or empty.
   - __One JTextField__ for user input.
 
+## Sorting Algorithms
+__Contains the following Sorting Algorithms:__
+  - __Bubble Sort__
+  - __Quick Sort__
+  - __Insertion Sort__
+  - __Merge Sort__
+    
+__Usage__
+  - Input the size of the array.
+  - Enter elements to be sorted.
+
+## Other Programs 
+
