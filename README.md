@@ -2,7 +2,10 @@
 
 This repository contains a collection of Java programs developed during my Data Structures and Algorithms course. Most of the program implementations rely on user-defined functions without utilizing pre-defined libraries.
 
-# Java Programs
+# What will you learn in this repository?
+Explore fundamental data structures such as arrays, stacks, queues, different kind of sorting algorithm. Understand their properties, advantages, and best use cases.
+
+# This repository contains the following Java Programs/Projects
 ## Queue Algorithm with GUI
 __GUI Components__
   - __Enqueue button:__ Add a number to the queue.
