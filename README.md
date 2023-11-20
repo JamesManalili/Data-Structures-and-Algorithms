@@ -24,5 +24,30 @@ __Usage__
   - Input the size of the array.
   - Enter elements to be sorted.
 
-## Other Programs 
+## String Manipulation / Other Programs 
+__Reverse the Number in Array__
+- Utilizes a for loop to reverse the elements in an array.
 
+__Sum of Digits in Array__
+- Calculates the sum of digits in the array.
+
+__Palindrome Checking__
+- Checks if the given input is a palindrome.
+
+__String Comparison__
+- Compares two strings.
+
+__String Concatenation__
+- Concatenates two strings.
+
+__Copy a String__
+- Creates a copy of the given string.
+
+__Reverse the First String__
+- Reverses the characters in the first string.
+
+__Convert String to Upper and Lower Case__
+- Converts a string to both upper and lower case.
+
+# License 
+This repository is open-source and is licensed under the MIT License. Feel free to use, modify, and distribute the code for your own projects.
